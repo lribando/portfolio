@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>Lauren Ribando | Work</title>
+    <link type="text/css" href="css/style.css" rel="stylesheet" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.js"></script>
+  </head>
+  <body>
+    <header class="header-footer">
+      <h1 class="header-footer">Lauren Ribando</h1>
+    </header>
+    <nav>
+      <ul>
+        <li class="sec1"><a href="#sec1">EMAIL</a></li>
+        <li><a href="#sec2">WEB</a></li>
+      </ul>
+    </nav>
+    <section id="sec1" class="page1">
+      <h2>EMAIL</h2>
+    </section>
+    <section id="sec2">
+      <h2>PAGE 2</h2>
+      <div id="slideshow-wrap"> <input type="radio" checked="checked" name="controls"
+          id="button-1" />
+        <label for="button-1"></label> <input type="radio" name="controls" id="button-2" />
+        <label for="button-2"></label> <input type="radio" name="controls" id="button-3" />
+        <label for="button-3"></label> <input type="radio" name="controls" id="button-4" />
+        <label for="button-4"></label>
+        <div id="slideshow-inner">
+          <ul>
+            <li id="slide1"> <img src="images/slideshow1.jpg" /> </li>
+            <li id="slide2"> <img src="images/slideshow2.jpg" /> </li>
+            <li id="slide3"> <img src="images/slideshow3.jpg" /> </li>
+            <li id="slide4"> <img src="images/slideshow4.jpg" /> </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+    <section id="sec3" class="page3">
+      <h2>PAGE 3</h2>
+    </section>
+    <section id="sec4">
+      <h2>PAGE 4</h2>
+    </section>
+    <footer class="header-footer">
+      <h1>THIS IS A FOOTER</h1>
+    </footer>
+    
+  </body>
+</html>
